@@ -1,5 +1,5 @@
 # Hello!💫:
-I'm a computer science undergraduate at the University of Calgary<br><br>I have 1+ years of experience in Fullstack Development
+I'm a computer science undergraduate at the University of Calgary<br><br>I have 2+ years of experience in Fullstack Development
 
 
 ## 🌐 Socials:
