@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Abdalla Eldoumani! 💫
-I’m a passionate **Computer Science undergraduate** at the **University of Calgary** (Class of 2027) with a keen interest in **AI/ML**, **Cybersecurity**, and **Fullstack Development**. With **2+ years of experience** building scalable and user-focused applications, I strive to leverage technology to solve real-world problems.
+I’m a passionate **Computer Science undergraduate** at the **University of Calgary** (Class of 2027) with a keen interest in **AI/ML**, **Cybersecurity**, and **Fullstack Development**. With **3+ years of experience** building scalable and user-focused applications, I strive to leverage technology to solve real-world problems.
 
 ---
 
