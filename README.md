@@ -6,7 +6,7 @@ I’m a passionate **Computer Science undergraduate** at the **University of Cal
 ## 🌐 Connect With Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://abdallaeldoumani.vercel.app/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallaeldoumani/) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdallaEldoumani)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdalla-Eldoumani)
 
 ---
 
