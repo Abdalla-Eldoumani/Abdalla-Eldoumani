@@ -1,27 +1,84 @@
-# 👋 Hello, I'm Abdalla Eldoumani! 💫
-I’m a passionate **Computer Science undergraduate** at the **University of Calgary** (Class of 2027) with a keen interest in **AI/ML**, **Cybersecurity**, and **Fullstack Development**. With **3+ years of experience** building scalable and user-focused applications, I strive to leverage technology to solve real-world problems.
+<div align="center">
 
----
+# Abdalla ElDoumani
 
-## 🌐 Connect With Me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://abdallaeldoumani.vercel.app/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallaeldoumani/) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdalla-Eldoumani)
+**From registers to React. Building at every layer of the stack.**
 
----
+Computer Science at the University of Calgary, B.Sc. June 2027, Dean's List
 
-## 💻 Tech Stack:
-**Languages**:  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://camo.githubusercontent.com/eded02d9c2f715db05a273a949fb00ee1acdc796b49181047d4000f898b5915e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f727573742d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72757374266c6f676f436f6c6f723d7768697465) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Assembly](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdallaeldoumani.com-0A0F1C?style=for-the-badge&logo=vercel&logoColor=white)](https://abdallaeldoumani.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdalla%20Eldoumani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallaeldoumani/)
 
-**Frontend**:  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-**Backend & Databases**:  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+I build systems software (an ARM64 operating system, a compiler, SIMD math kernels) and full-stack web applications.
 
-**Tools & Platforms**:  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+## Now
 
-**Data Science & Machine Learning**:  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%230078D7.svg?style=for-the-badge&logo=Mathworks&logoColor=white)  
+- **Research (PURE Award, Summer 2026):** proactive task replication for extreme edge computing, using a reputation-aware MILP model to place tasks across unreliable, user-owned devices.
+- **[AArch64 Playground](https://aarch64-playground.vercel.app):** a browser-based ARMv8 emulator with a visual debugger, built for CPSC 355 students. Next.js frontend, Rust-to-WASM emulator core. I lead development.
+
+## Selected work
+
+| Project | What it is | Built with |
+|---|---|---|
+| [aeos](https://github.com/Abdalla-Eldoumani/aeos) | Bare-metal AArch64 OS that boots from reset to a windowed desktop: MMU, EL0 userspace via a static ELF loader, four SMP cores, an in-kernel ARP/ICMP stack, and a compositing GUI | C, ARMv8 assembly, QEMU |
+| [qala-lang](https://github.com/Abdalla-Eldoumani/qala-lang) | Statically typed language with effect annotations and scope-bound defer: bytecode VM, ARM64 backend, published on [crates.io](https://crates.io/crates/qala-cli), with a [browser playground](https://qala-lang.vercel.app) | Rust, WASM, Next.js |
+| [rust-http-server](https://github.com/Abdalla-Eldoumani/rust-http-server) | HTTP server handling 10,000+ concurrent connections at sub-10ms latency, with JWT auth, full-text and fuzzy search, and caching that cut database load 60% | Rust, Axum, SQLite |
+| [FastMathExt](https://github.com/Abdalla-Eldoumani/FastMathExt) | Matrix multiplication 25-41% faster than NumPy through three-level cache blocking, AVX2 with FMA, and OpenMP task-parallel Strassen | C++, Python, OpenMP |
+| [dossier](https://github.com/Abdalla-Eldoumani/dossier) | Privacy-first PDF toolkit: 40+ operations that run entirely on-device, shipped as a static web app and an MCP server over one shared core | TypeScript |
+| [qemu-mcp-server](https://github.com/Abdalla-Eldoumani/qemu-mcp-server) | MCP server for controlling QEMU virtual machines over QMP: lifecycle, snapshots, console I/O, memory inspection. Published on [npm](https://www.npmjs.com/package/qemu-mcp-server) | TypeScript, QEMU |
+
+Hackathon work: [Pile](https://github.com/Abdalla-Eldoumani/Pile), an audio briefing generator that anchors every spoken line to its source paragraph (Cursor Calgary Hackathon, May 2026), and [DUST](https://github.com/Abdalla-Eldoumani/DUST), a real-time multiplayer web game (Calgary Hacks 2026).
+
+## Teaching
+
+Head TA for CPSC 355 (Computer Architecture, ARMv8) at the University of Calgary in 2025-26: a class of 120+, a five-TA team, and a Gradescope autograder built on Python, Docker, and QEMU user-mode emulation so ARM64 binaries grade deterministically on x86 servers. Tutorial lead for CPSC 413 (Design and Analysis of Algorithms), where I wrote a stress-test autograder that enforces optimal asymptotic complexity.
+
+## Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![ARMv8 Assembly](https://img.shields.io/badge/ARMv8_Assembly-0091BD?style=flat-square&logo=arm&logoColor=white)
+
+**Web**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Systems and infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abdalla-Eldoumani&show_icons=true&hide_border=true&theme=dark">
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Abdalla-Eldoumani&show_icons=true&hide_border=true">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abdalla-Eldoumani&show_icons=true&hide_border=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldoumani&layout=compact&langs_count=8&hide_border=true&theme=dark">
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldoumani&layout=compact&langs_count=8&hide_border=true">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldoumani&layout=compact&langs_count=8&hide_border=true">
+</picture>
+
+</div>
