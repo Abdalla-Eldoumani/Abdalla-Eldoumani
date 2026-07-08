@@ -83,4 +83,4 @@ Head TA for CPSC 355 (Computer Architecture, ARMv8) at the University of Calgary
 
 </div>
 
-[![My GitFut card](https://gitfut.com/Abdalla-Eldoumani.png)](https://gitfut.com/Abdalla-Eldoumani?country=eg)
+[![My GitFut card](https://gitfut.com/Abdalla-Eldoumani.png)](https://gitfut.com/Abdalla-Eldoumani?country=EG)
