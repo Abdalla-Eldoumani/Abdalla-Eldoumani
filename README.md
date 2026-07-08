@@ -12,7 +12,7 @@ Computer Science at the University of Calgary, B.Sc. June 2027, Dean's List
 
 </div>
 
-I build systems software (an ARM64 operating system, a compiler, CPU and GPU math kernels) and full-stack web applications.
+I build systems software (an ARM64 operating system, a compiler, CPU and GPU math kernels) and full-stack web applications. I graduate in June 2027 and I'm open to new-grad conversations.
 
 ## Now
 
@@ -34,11 +34,13 @@ Ordered by how close each project sits to the hardware.
 
 Hackathon work: [Pile](https://github.com/Abdalla-Eldoumani/Pile), an audio briefing generator that anchors every spoken line to its source paragraph (Cursor Calgary Hackathon, May 2026), and [DUST](https://github.com/Abdalla-Eldoumani/DUST), a real-time multiplayer web game (Calgary Hacks 2026).
 
+Some repos here weren't built for a resume at all: a [tajweed trainer](https://github.com/Abdalla-Eldoumani/tajweed-trainer), a [Qur'an and sunnah browser extension](https://github.com/Abdalla-Eldoumani/islam-extension), tools for my own community.
+
 ## Where to start reading
 
 - **Systems:** aeos. Start at the boot path, then the scheduler, then the compositor.
-- **Languages and runtimes:** qala-lang. The bytecode VM first, then the ARM64 backend.
-- **Performance:** peregrine. The AVX2 blocking, the fused kernels, and the CPU/GPU crossover calibration.
+- **Languages and runtimes:** Qala. The bytecode VM first, then the ARM64 backend. The name is Arabic, qala, "he said": the whole idea of the language is that what you declare is what happens.
+- **Performance:** Peregrine. The AVX2 blocking, the fused kernels, and the CPU/GPU crossover calibration. The benchmarks include the losses.
 - **Web and tools:** the [playground](https://aarch64-playground.vercel.app) live, then dossier for how one TypeScript core ships as both a web app and an MCP server.
 
 ## Teaching
@@ -73,6 +75,10 @@ Head TA for CPSC 355 (Computer Architecture, ARMv8) at the University of Calgary
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+## Off hours
+
+Football, mostly: watching it, arguing about it, and a FIFA career mode that has outlasted a few of the repos above. Beyond that, bouldering and the gym. The card at the bottom is my GitHub year, rated like a FUT player.
 
 <div align="center">
 
