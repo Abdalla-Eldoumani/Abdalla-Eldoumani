@@ -2,11 +2,12 @@
 
 # Abdalla ElDoumani
 
-**From registers to React. Building at every layer of the stack.**
+**Silicon to interface. Building at every layer of the stack.**
 
 Computer Science at the University of Calgary, B.Sc. June 2027, Dean's List
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdallaeldoumani.com-0A0F1C?style=for-the-badge&logo=vercel&logoColor=white)](https://abdallaeldoumani.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-16181A?style=for-the-badge&logo=readdotcv&logoColor=white)](https://abdallaeldoumani.com/resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdalla%20Eldoumani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallaeldoumani/)
 [![Email](https://img.shields.io/badge/Email-aamsdoumani%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aamsdoumani@gmail.com)
 
