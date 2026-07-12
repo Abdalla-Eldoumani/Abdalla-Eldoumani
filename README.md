@@ -39,10 +39,10 @@ Some repos here weren't built for a resume at all: a [tajweed trainer](https://g
 
 ## Where to start reading
 
-- **Systems:** aeos. Start at the boot path, then the scheduler, then the compositor.
-- **Languages and runtimes:** Qala. The bytecode VM first, then the ARM64 backend. The name is Arabic, qala, "he said": the whole idea of the language is that what you declare is what happens.
-- **Performance:** Peregrine. The AVX2 blocking, the fused kernels, and the CPU/GPU crossover calibration. The benchmarks include the losses.
-- **Web and tools:** the [playground](https://aarch64-playground.vercel.app) live, then dossier for how one TypeScript core ships as both a web app and an MCP server.
+- **Systems:** *aeos*. Start at the boot path, then the scheduler, then the compositor.
+- **Languages and runtimes:** *Qala*. The bytecode VM first, then the ARM64 backend. The name is Arabic, qala, "he said": the whole idea of the language is that what you declare is what happens.
+- **Performance:** *Peregrine*. The AVX2 blocking, the fused kernels, and the CPU/GPU crossover calibration. The benchmarks include the losses.
+- **Web and tools:** the [playground](https://aarch64-playground.vercel.app) live, then *dossier* for how one TypeScript core ships as both a web app and an MCP server.
 
 ## Teaching
 
