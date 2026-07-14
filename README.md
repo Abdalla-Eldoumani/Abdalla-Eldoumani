@@ -92,3 +92,5 @@ Football, mostly: watching it, arguing about it, and a FIFA career mode that has
 [![My GitFut card](https://gitfut.com/Abdalla-Eldoumani.png)](https://gitfut.com/Abdalla-Eldoumani?country=EG)
 
 </div>
+
+<iframe src="https://github.com/sponsors/Abdalla-Eldoumani/button" title="Sponsor Abdalla-Eldoumani" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
