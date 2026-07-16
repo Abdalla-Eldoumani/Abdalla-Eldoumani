@@ -89,7 +89,7 @@ Football, mostly: watching it, arguing about it, and a FIFA career mode that has
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldoumani&layout=compact&langs_count=8&hide_border=true">
 </picture>
 
-[![My GitFut card](https://gitfut.com/Abdalla-Eldoumani.png)](https://gitfut.com/Abdalla-Eldoumani?country=EG)
+<a href="https://gitfut.com/Abdalla-Eldoumani?country=EG"><img src="https://gitfut.com/Abdalla-Eldoumani.png" alt="My GitFut card" width="415"></a>
 
 </div>
 
