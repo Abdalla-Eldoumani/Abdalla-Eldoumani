@@ -13,7 +13,7 @@ Computer Science at the University of Calgary, B.Sc. June 2027, Dean's List
 
 </div>
 
-I build systems software (an ARM64 operating system, a compiler, CPU and GPU math kernels) and full-stack web applications. I graduate in June 2027 and I'm open to new-grad conversations.
+I build systems software and full-stack web applications. I graduate in June 2027 and I'm open to new-grad conversations.
 
 ## Now
 
