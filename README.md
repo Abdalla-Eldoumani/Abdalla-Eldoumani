@@ -4,7 +4,7 @@
 
 **Silicon to interface. Building at every layer of the stack.**
 
-Computer Science at the University of Calgary, B.Sc. June 2027, Dean's List
+Honours Computer Science at the University of Calgary, B.Sc. June 2027, Dean's List
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdallaeldoumani.com-0A0F1C?style=for-the-badge&logo=vercel&logoColor=white)](https://abdallaeldoumani.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-16181A?style=for-the-badge&logo=readdotcv&logoColor=white)](https://abdallaeldoumani.com/resume)
@@ -17,8 +17,14 @@ I build systems software and full-stack web applications. I graduate in June 202
 
 ## Now
 
-- **Research (PURE Award, Summer 2026):** proactive task replication for extreme edge computing, using a reputation-aware MILP model to place tasks across unreliable, user-owned devices.
-- **[AArch64 Playground](https://aarch64-playground.vercel.app):** a browser-based ARMv8 emulator with a visual debugger, built for CPSC 355 students. Next.js frontend, Rust-to-WASM emulator core. I lead development.
+- **Head TA, CPSC 355 (Fall 2026):** second term running the computer architecture and ARMv8 assembly course, this time for about 300 students.
+- **[AArch64 Playground](https://aarch64-playground.com):** a browser-based ARMv8 emulator and step debugger built for CPSC 355 students. Rust-to-WASM emulator core, Next.js front end, checked against the department's ARM servers on a 50-program C corpus (1,043 Rust tests, 2,086 web tests). I lead development.
+- **Honours thesis (CPSC 502):** how well current language models write, repair, and predict ARMv8 assembly, judged by execution rather than by reading the output.
+- **Technical advisor, MIST (Muslim Students and Technology):** the person club members bring technical problems to.
+
+## Summer 2026
+
+Two PURE research awards. The first was the Playground above. The second, under Prof. Sara Elsayed: proactive task replication for extreme edge computing as a reputation-weighted MILP, solved at full scale with Gurobi against a published baseline across budget, task, and worker sweeps, with the mechanism behind the availability gap diagnosed and a conference paper drafted.
 
 ## Selected work
 
@@ -29,7 +35,7 @@ Ordered by how close each project sits to the hardware.
 | Bare metal | [aeos](https://github.com/Abdalla-Eldoumani/aeos) | Bare-metal AArch64 OS that boots from reset to a windowed desktop: MMU, EL0 userspace via a static ELF loader, four SMP cores, an in-kernel ARP/ICMP stack, and a compositing GUI | C, ARMv8 assembly, QEMU |
 | Language and VM | [qala-lang](https://github.com/Abdalla-Eldoumani/qala-lang) | Statically typed language with effect annotations and scope-bound defer: bytecode VM, ARM64 backend, published on [crates.io](https://crates.io/crates/qala-cli), with a [browser playground](https://qala-lang.vercel.app) | Rust, WASM, Next.js |
 | Compute kernels | [peregrine](https://github.com/Abdalla-Eldoumani/peregrine) | Heterogeneous linear algebra for Python: AVX2 CPU kernels and an optional cuBLAS CUDA backend behind one zero-copy, NumPy-compatible API. Device-resident matmul reaches 28x NumPy; fused kernel chains reach 71x | C++, CUDA, Python |
-| Network server | [rust-http-server](https://github.com/Abdalla-Eldoumani/rust-http-server) | HTTP server handling 10,000+ concurrent connections at sub-10ms latency, with JWT auth, full-text and fuzzy search, and caching that cut database load 60% | Rust, Axum, SQLite |
+| Network server | [rust-http-server](https://github.com/Abdalla-Eldoumani/rust-http-server) | Production-shaped REST and WebSocket server: 52 routes, JWT access and refresh auth with role-based guards, per-route rate limiting, an in-memory cache, a background job queue, and full-text search with fuzzy matching; 199 test functions | Rust, Axum, SQLite |
 | Browser tools | [dossier](https://github.com/Abdalla-Eldoumani/dossier) | Privacy-first PDF toolkit: 40+ operations that run entirely on-device, shipped as a static web app and an MCP server over one shared core | TypeScript |
 | Agent infrastructure | [qemu-mcp-server](https://github.com/Abdalla-Eldoumani/qemu-mcp-server) | MCP server for controlling QEMU virtual machines over QMP: lifecycle, snapshots, console I/O, memory inspection. Published on [npm](https://www.npmjs.com/package/qemu-mcp-server) | TypeScript, QEMU |
 
@@ -42,11 +48,11 @@ Some repos here weren't built for a resume at all: a [tajweed trainer](https://g
 - **Systems:** *aeos*. Start at the boot path, then the scheduler, then the compositor.
 - **Languages and runtimes:** *Qala*. The bytecode VM first, then the ARM64 backend. The name is Arabic, qala, "he said": the whole idea of the language is that what you declare is what happens.
 - **Performance:** *Peregrine*. The AVX2 blocking, the fused kernels, and the CPU/GPU crossover calibration. The benchmarks include the losses.
-- **Web and tools:** the [playground](https://aarch64-playground.vercel.app) live, then *dossier* for how one TypeScript core ships as both a web app and an MCP server.
+- **Web and tools:** the [playground](https://aarch64-playground.com) live, then *dossier* for how one TypeScript core ships as both a web app and an MCP server.
 
 ## Teaching
 
-Head TA for CPSC 355 (Computer Architecture, ARMv8) at the University of Calgary in 2025-26: a class of 120+, a five-TA team, and a Gradescope autograder built on Python, Docker, and QEMU user-mode emulation so ARM64 binaries grade deterministically on x86 servers. Tutorial lead for CPSC 413 (Design and Analysis of Algorithms), where I wrote a stress-test autograder that enforces optimal asymptotic complexity.
+Head TA for CPSC 355 (Computer Architecture, ARMv8) at the University of Calgary, Winter 2026 and again Fall 2026: a class of 120+ then about 300, a five-TA team, and a Gradescope autograder built on Python, Docker, and QEMU user-mode emulation so ARM64 binaries grade deterministically on x86 servers. Tutorial lead for CPSC 413 (Design and Analysis of Algorithms) in Winter 2026, where I wrote a stress-test autograder that enforces optimal asymptotic complexity. Before any of that I took 355 myself, found it hard, and loved it; the Playground exists because the tooling around the course, not the course, was what made it hard.
 
 ## Stack
 
@@ -75,7 +81,6 @@ Head TA for CPSC 355 (Computer Architecture, ARMv8) at the University of Calgary
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ## Off hours
 
