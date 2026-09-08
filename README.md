@@ -82,16 +82,4 @@ I have TA'd CPSC 355 three terms running: TA in Fall 2025, Head TA in Winter 202
 
 ## Off hours
 
-Football, mostly: watching it, arguing about it, and a FIFA career mode that has outlasted a few of the repos above. Beyond that, bouldering and the gym. The card at the bottom is my GitHub year, rated like a FUT player.
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldoumani&layout=compact&langs_count=8&hide_border=true&theme=dark">
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldoumani&layout=compact&langs_count=8&hide_border=true">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldoumani&layout=compact&langs_count=8&hide_border=true">
-</picture>
-
-<a href="https://gitfut.com/Abdalla-Eldoumani?country=EG"><img src="https://gitfut.com/Abdalla-Eldoumani.png" alt="My GitFut card" width="415"></a>
-
-</div>
+Football (soccer for all you NA peeps). They call me the Egyptian Neuer. Beyond that, bouldering and going to the gym.
