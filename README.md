@@ -18,7 +18,8 @@ Hi. I write systems software (kernels, emulators, a small language) and I also s
 ## Right now
 
 - **Head TA for CPSC 355**, the computer architecture and ARMv8 assembly course at UCalgary. Second time running it, this term for about 300 students.
-- **[AArch64 Playground](https://aarch64-playground.com).** I took 355 in my second year, found it hard, and loved it. What made it hard was not the course, it was the tooling: you wrote assembly over SSH and got a segfault with no line number. So in May 2026 I spent a weekend writing an ARM64 interpreter, and three weeks later it ran real programs. It is now a browser emulator and step debugger (Rust compiled to WebAssembly, Next.js in front) that I lead with a professor and two collaborators. It is checked against the department's real servers on 50 compiled C programs, so what a student sees in the browser is what they would see on the server.
+- **[AArch64 Playground](https://aarch64-playground.com).** I took 355 in my second year, found it hard, and loved it. What made it hard was not the course, it was the tooling: you wrote assembly over SSH and got a segfault with no line number. So in May 2026 I spent a weekend writing an ARM64 interpreter, and three weeks later it ran real programs. It is now a browser emulator and step debugger (Rust compiled to WebAssembly, Next.js in front) that I lead with a professor and two collaborators, and it is the tool the course runs on. Close to 900 people used it in the first three weeks of this term. It is checked against the department's real servers on 50 compiled C programs, so what a student sees in the browser is what they would see on the server. Open source since September 2026.
+- **Hack the North 2026.** My team won the Aramco Americas sponsor award with Providence, one assistant for the computers you already own. You talk to it from the web, an Apple Watch, or a Quest headset, and it runs the work on your Mac or Windows machine. I wrote the firmware for the wearable we built first (an ESP32 with haptic motors, sensors, and audio), and when the hardware could not be ready in time I moved onto the software and owned the part that keeps it alive, the reconnects, timeouts, crash recovery, and CI. First hackathon I have flown to.
 - **Honours thesis.** How well current language models write, repair, and predict ARMv8 assembly, judged by running the code instead of reading it.
 - **Technical advisor for MIST** (Muslim Innovators in Science and Technology), which mostly means being the person people come to when something breaks, plus a second look at the technical side of the club's events.
 
@@ -37,7 +38,7 @@ Ordered by how close each one sits to the hardware.
 | Browser tools | [dossier](https://github.com/Abdalla-Eldoumani/dossier) | A PDF toolkit where nothing leaves your machine: 42 operations, shipped as a web app and as an MCP server from one shared core | TypeScript |
 | Agent infrastructure | [qemu-mcp-server](https://github.com/Abdalla-Eldoumani/qemu-mcp-server) | Lets an AI agent drive QEMU virtual machines over QMP: boot, snapshot, console, memory. On [npm](https://www.npmjs.com/package/qemu-mcp-server) | TypeScript, QEMU |
 
-Hackathon work: [Pile](https://github.com/Abdalla-Eldoumani/Pile), which turns your saved reading pile into an audio briefing where every spoken line points back to its source paragraph (Cursor Calgary Hackathon, May 2026), and [DUST](https://github.com/Abdalla-Eldoumani/DUST), a real time multiplayer game built in 24 hours (Calgary Hacks 2026).
+Hackathon work: Providence above (Hack the North 2026, Aramco Americas sponsor award), [Pile](https://github.com/Abdalla-Eldoumani/Pile), which turns your saved reading pile into an audio briefing where every spoken line points back to its source paragraph (Cursor Calgary Hackathon, May 2026, first in the Claude AI Analysis round), and [DUST](https://github.com/Abdalla-Eldoumani/DUST), a real time multiplayer game built in 24 hours (Calgary Hacks 2026).
 
 Some repos here were never meant for a resume: a [tajweed trainer](https://github.com/Abdalla-Eldoumani/tajweed-trainer), a [Qur'an and sunnah browser extension](https://github.com/Abdalla-Eldoumani/islam-extension). Tools for my own community.
 
@@ -82,4 +83,16 @@ I have TA'd CPSC 355 three terms running: TA in Fall 2025, Head TA in Winter 202
 
 ## Off hours
 
-Football (soccer for all you NA peeps). They call me the Egyptian Neuer. Beyond that, bouldering and going to the gym.
+Football, mostly: watching it, arguing about it, and a FIFA career mode that has outlasted a few of the repos above. Beyond that, bouldering and the gym. The card at the bottom is my GitHub year, rated like a FUT player.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldoumani&layout=compact&langs_count=8&hide_border=true&theme=dark">
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldoumani&layout=compact&langs_count=8&hide_border=true">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldoumani&layout=compact&langs_count=8&hide_border=true">
+</picture>
+
+<a href="https://gitfut.com/Abdalla-Eldoumani?country=EG"><img src="https://gitfut.com/Abdalla-Eldoumani.png" alt="My GitFut card" width="415"></a>
+
+</div>
